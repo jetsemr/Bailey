@@ -29,10 +29,10 @@ export default function Navigation() {
           Documentation
         </a>
         <a
-          href="/profile"
+          href="/Ticket"
           className="text-lg no-underline text-grey-darkest hover:text-blue-dark ml-2"
         >
-          Profile
+          Ticket
         </a>
       </div>
     </nav>
